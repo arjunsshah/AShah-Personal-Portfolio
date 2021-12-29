@@ -1,5 +1,7 @@
 Arjun Shah Personal Portfolio Website
 
+NOTE: This project is still a work in progress regarding content and style.
+
 In this project, I sought to make my own website utilizing languages such as html, css, and javascript.
 The first reason for creating this website was to apply some of the frontend skills I learned in my previous
 internship at the startup CaseCtrl. The second reason is that I wanted to be able to show case some of my
