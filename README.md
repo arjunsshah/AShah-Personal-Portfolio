@@ -12,5 +12,5 @@ I found their tutorial to be extremely beginner friendly and it gave me a good b
 Some challenges I faced while creating this website were simply due to me not being super fluent in css. 
 However, my "googling skills" definitely flourished throughout this project and is now a valuable tool I can add to my software engineering skillset.
 
-The website can be run locally by using the Live Server extension that VSCode provides in their marketplace. 
-I am currently updating my website but once I am finished I will be uploading it onto a DigitalOcean Droplet.
+The website can be run locally by using the Live Server extension that VSCode provides in their marketplace or 
+can be accessed through the link arjunshahh.com! I am running my website through a digital ocean droplet. 
